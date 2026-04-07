@@ -18,7 +18,7 @@ function ProductViewer() {
     
 
     <div className='controls'>
-        <p className='info'>Macbookpro {scale} in Space Black {color}</p>
+        <p className='info'>Macbookpro is Available in Two Variants</p>
 
         <div className="flex-center gap-5 mt-5">
             <div className='color-control'>
