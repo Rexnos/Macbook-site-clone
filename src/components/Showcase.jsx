@@ -23,10 +23,10 @@ const Showcase = () => {
                 transform: "scale(1.1)"
             }).to('.content', { opacity: 1, y:0, ease: 'power1.in'});
 
-            console.log("this is desktop")
+            
         }
 
-        console.log("this is tablet");
+       
 
     },[isTablet])
 
